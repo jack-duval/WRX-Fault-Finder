@@ -7,6 +7,7 @@ The analyzer will make some determintations based on context surrounding knock e
 For example, on FA20 subaru WRXs, it's expected that engine knock may be detected when the AC compressor switches on.
 
 # Project Structure
+```
 ├── CMakeLists.txt
 ├── LICENSE
 ├── README.md
@@ -38,3 +39,4 @@ For example, on FA20 subaru WRXs, it's expected that engine knock may be detecte
 └── utils/
     ├── Utils.cpp
     └── Utils.h
+```
